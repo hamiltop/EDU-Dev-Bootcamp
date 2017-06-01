@@ -133,7 +133,7 @@ We will provide an overview of Azure AD, and discuss different patterns for inte
 
 ## Module 17-Azure Machine Learning in EDU ##
 
-[View PowerPoint](Presentation/06-teams.pptx?raw=true)
+[View PowerPoint](Presentation/17-Azure%20Machine%20Learning%20in%20EDU.pptx?raw=true)
 
 ---
 
