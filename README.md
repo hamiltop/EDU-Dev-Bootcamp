@@ -1,113 +1,151 @@
-# EDU Hackathon
-Contains content for the Azure EDU partner hackathon
+# EDU partner Developer Bootcamp
+Contains content for the Azure EDU partner Developer Bootcamp
 
 > The current status is:
 >
 >   **DRAFT**
 >
 
-These labs and content will kickstart your EDU platform knowledge with a combination of lectures and hands on labs. It is intended to be delivered in a classroom environment but feel free to reuse this content.
-
----
-## Module 00-Hackathon overview ##
-In this session, we will provide a brief history of Azure, a quick overview of the capabilities available and introduction to the 4-day hackathon.
-
-[View PowerPoint](Presentation/00-Hackathon overview.pptx?raw=true)
+These labs and content will kickstart your Office 365 and Azure for Education (EDU) platform knowledge with a combination of lectures and hands on labs. It is intended to be delivered in a classroom environment but feel free to reuse this content.
 
 ---
 
-## Module 01-Tools and developer setup ##
-We will provide an overview of the developer tools available for developing on your platform.
+## Module 00-EDU Overview ##
+In this session, we will provide a brief overview of the EDU opportunity for partners when integrating with the Microsoft platform.
 
-[View PowerPoint](Presentation/01-Tools and developer setup.pptx?raw=true)
+[View PowerPoint](Presentation/00-EDU%20Overview.pptx?raw=true)
 
-### HOL 1: Setting up your developer environment ###
-Setting up your developer environment for your specific language
-In this lab you will create the environment that is needed for your language preference.
+---
+
+## Module 01-Azure Overview ##
+Azure is Microsoft's intelligent cloud platform. This module will provide a brief overview of the platform and the capabilities available to you.
+
+[View PowerPoint](Presentation/01-Azure%20Overview.pptx?raw=true)
+
+---
+
+## Module 02-AAD and graph for EDU ##
+
+[View PowerPoint](Presentation/02-AAD%20and%20graph%20for%20EDU.pptx?raw=true)
+
+---
+
+## Module 03-HOL-Tools and developer setup ##
+We will provide an overview of the developer tools available for developing on your platform. In this lab you will create the environment that is required for your development language preference.
 
 * Create O365 EDU Tenant
 * Connect an Azure subscription (Trial or other)
-* Download the sample apps and content
+* Sign up for the different developer portals
 
-#### View instructions for [.NET](HOL/dotnet/01-developer-environment)
+[View PowerPoint](Presentation/03-HOL-Tools%20and%20developer%20setup.pptx?raw=true)
+
+### View instructions for [.NET](HOL/dotnet/03-tools-and-developer-setup)
 
 ----
-##  Module 02-azure-aad-apps ##
 
-[View PowerPoint](Presentation/02-azure-aad-apps.pptx?raw=true)
+##  Module 04-Intro to graph and Azure AD ##
+You can use the Microsoft Graph API to interact with the data of millions of users in the Microsoft cloud. Use Microsoft Graph to build apps for organizations and consumers that connect to a wealth of resources, relationships, and intelligence, all through a single endpoint: [](https://graph.microsoft.com)
 
-### HOL 02-azure-aad-apps ###
+[View PowerPoint](Presentation/04-Intro%20to%20graph%20and%20Azure%20AD.pptx?raw=true)
+
+---
+
+## Module 05-HOL-Azure AD Applications ##
 This lab will introduce you to identity in Azure AD and the Microsoft Graph. You will perform the following tasks:
 
-* Register you AAD Application
-* Add authentication to your app
-* Call the MS Graph to retrieve data
+* Register your Azure Active Directory Application
+* Add authentication to your application
 
-
-#### View instructions for [.NET](HOL/dotnet/02-azure-aad-apps)
+### View instructions for: ###
+* [.NET](HOL/dotnet/05-azure-ad-applications)
 
 ---
-##  Module 03-authn-authz-patterns ##
+
+##  Module 06-AuthN and AuthZ patterns ##
 We will provide an overview of Azure AD, and discuss different patterns for integrating you existing application and providing SSO with Azure AD/Office 365.
 
-[View PowerPoint](Presentation/03-authn-authz-patterns.pptx?raw=true)
-
-### HOL 03-authn-authz-patterns ###
-
-#### View instructions for [.NET](HOL/dotnet/)
+[View PowerPoint](Presentation/06-AuthN%20and%20AuthZ%20patterns.pptx?raw=true)
 
 ---
 
-## Module 04-graph-rest-apis ##
+## Module 07-HOL-AuthN and AuthZ patterns ##
 
-[View PowerPoint](Presentation/04-graph-rest-apis.pptx?raw=true)
+[View PowerPoint](Presentation/07-HOL-AuthN%20and%20AuthZ%20patterns.pptx?raw=true)
 
-### HOL 04-graph-rest-apis ###
-
-#### View instructions for [.NET](HOL/dotnet/)
-
----
-## Module 05-o365-apis ##
-
-[View PowerPoint](Presentation/05-o365-apis.pptx?raw=true)
-
-### HOL 05-o365-apis ###
-
-#### View instructions for [.NET](HOL/dotnet/04-devops-ci)
+### View instructions for:
+* [.NET](HOL/dotnet/07-authn-and-authz-patterns)
 
 ---
-## Module 06-teams ##
+
+## Module 08-SSDS and Rostering API ##
+
+[View PowerPoint](Presentation/08-SSDS%20and%20Rostering%20API.pptx?raw=true)
+
+---
+
+## Module 09-HOL-Rostering API ##
+
+[View PowerPoint](Presentation/09-HOL-Rostering%20API.pptx?raw=true)
+
+---
+
+## Module 10-OneDrive for EDU ##
+
+[View PowerPoint](Presentation/10-OneDrive%20for%20EDU.pptx?raw=true)
+
+---
+
+## Module 11-HOL-Adding O365 APIs to your app  ##
+
+[View PowerPoint](Presentation/11-HOL-Adding%20O365%20APIs%20to%20your%20app.pptx?raw=true)
+
+---
+
+## Module 12-PLACEHOLDER ##
+
+[View PowerPoint](Presentation/12-PLACEHOLDER.pptx?raw=true)
+
+---
+
+## Module 13-PLACEHOLDER  ##
+
+[View PowerPoint](Presentation/13-PLACEHOLDER.pptx?raw=true)
+
+---
+
+## Module 14-Teams in EDU ##
+
+[View PowerPoint](Presentation/14-Teams%20in%20EDU.pptx?raw=true)
+
+---
+
+## Module 15-Developer deep dive on teams for EDU ##
+
+[View PowerPoint](Presentation/15-Developer%20deep%20dive%20on%20teams%20for%20EDU.pptx?raw=true)
+
+---
+
+## Module 16-HOL-Teams ##
+
+[View PowerPoint](Presentation/16-HOL-Teams.pptx?raw=true)
+
+---
+
+## Module 17-Azure Machine Learning in EDU ##
 
 [View PowerPoint](Presentation/06-teams.pptx?raw=true)
 
-### HOL  06-teams ###
+---
 
-#### View instructions for [.NET](HOL/dotnet/ 06-teams)
+## Module 18-Azure resource manager (ARM) Overview ##
+Intro to Azure Resource manager and infrastructure as code.
+
+[View PowerPoint](Presentation/18-Azure%20resource%20manager%20(ARM)%20Overview.pptx?raw=true)
 
 ---
 
-## Module 07 - Infrastructure as code with Azure Resource Manager (ARM) ##
-Intro to Azure Resource manager and infrastructure as code.
-
-[View PowerPoint](Presentation/Module05-ARM-IAC.pptx?raw=true)
-
-### HOL 07: Infrastructure as code with (ARM) ###
-This lab will introduce you to ARM templates and deployments to Azure. You will perform the following tasks:
-
-* Create ARM template for web app in VS
-* Deploy using VSTS
-* Create 1 Production environment
-* Configure Continuous deployment
-
-#### View instructions for [.NET](HOL/dotnet/05-arm-cd)
-----
-## Module 08 - Infrastructure as code with Azure Resource Manager (ARM) ##
-Intro to Azure Resource manager and infrastructure as code.
-
-[View PowerPoint](Presentation/Module05-ARM-IAC.pptx?raw=true)
-
-### HOL 4: DevOps with Azure and VSTS ###
-This lab will introduce you to DevOps with Visual Studio Team Services. You will perform the following tasks:
+##  Module 19-Azure web apps and DevOps with VSTS ###
+This module will introduce you Visual Studio Team Services and Azure web applications.
 
 * Create Visual Studio Team Services (VSTS) Online account
 * Create Git repository
@@ -115,7 +153,8 @@ This lab will introduce you to DevOps with Visual Studio Team Services. You will
 * Push code into VSTS
 * Create CI pipeline for build. Ends with published artifacts
 
-#### View instructions for [.NET](HOL/dotnet/04-devops-ci)
+[View PowerPoint](Presentation/19-Azure%20web%20apps%20and%20DevOps%20with%20VSTS.pptx?raw=true)
 
 ----
 
+Copyright 2016 Microsoft Corporation. All rights reserved. Except where otherwise noted, these materials are licensed under the terms of the MIT License. You may use them according to the license as is most appropriate for your project. The terms of this license can be found at https://opensource.org/licenses/MIT.
