@@ -17,10 +17,10 @@ In this session, we will provide a brief overview of the EDU opportunity for par
 
 ---
 
-## Module 01-Azure Overview ##
-Azure is Microsoft's intelligent cloud platform. This module will provide a brief overview of the platform and the capabilities available to you.
+## Module 01-EDU Scenarios ##
+In this session, we will provide a brief overview of the EDU opportunity for partners when integrating with the Microsoft platform.
 
-[View PowerPoint](Presentation/01-Azure%20Overview.pptx?raw=true)
+[View PowerPoint](Presentation/01-EDU%20Scenarios.pptx?raw=true)
 
 ---
 
@@ -137,14 +137,21 @@ We will provide an overview of Azure AD, and discuss different patterns for inte
 
 ---
 
-## Module 18-Azure resource manager (ARM) Overview ##
-Intro to Azure Resource manager and infrastructure as code.
+## Module 18-Azure Overview ##
+Azure is Microsoft's intelligent cloud platform. This module will provide a brief overview of the platform and the capabilities available to you.
 
-[View PowerPoint](Presentation/18-Azure%20resource%20manager%20(ARM)%20Overview.pptx?raw=true)
+[View PowerPoint](Presentation/18-Azure%20Overview.pptx?raw=true)
 
 ---
 
-##  Module 19-Azure web apps and DevOps with VSTS ###
+## Module 19-Azure resource manager (ARM) Overview ##
+Intro to Azure Resource manager and infrastructure as code.
+
+[View PowerPoint](Presentation/19-Azure%20resource%20manager%20(ARM)%20Overview.pptx?raw=true)
+
+---
+
+##  Module 20-Azure web apps and DevOps with VSTS ###
 This module will introduce you Visual Studio Team Services and Azure web applications.
 
 * Create Visual Studio Team Services (VSTS) Online account
@@ -153,7 +160,7 @@ This module will introduce you Visual Studio Team Services and Azure web applica
 * Push code into VSTS
 * Create CI pipeline for build. Ends with published artifacts
 
-[View PowerPoint](Presentation/19-Azure%20web%20apps%20and%20DevOps%20with%20VSTS.pptx?raw=true)
+[View PowerPoint](Presentation/20-Azure%20web%20apps%20and%20DevOps%20with%20VSTS.pptx?raw=true)
 
 ----
 
