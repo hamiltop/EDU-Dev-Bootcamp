@@ -39,7 +39,8 @@ We will provide an overview of the developer tools available for developing on y
 
 [View PowerPoint](Presentation/03-HOL-Tools%20and%20developer%20setup.pptx?raw=true)
 
-### View instructions for [.NET](HOL/dotnet/03-tools-and-developer-setup)
+### View challenge ###
+* [HOL/03-tools-and-developer-setup]()
 
 ----
 
@@ -56,8 +57,8 @@ This lab will introduce you to identity in Azure AD and the Microsoft Graph. You
 * Register your Azure Active Directory Application
 * Add authentication to your application
 
-### View instructions for: ###
-* [.NET](HOL/dotnet/05-azure-ad-applications)
+### View challenge ###
+* [HOL/05-azure-ad-applications]()
 
 ---
 
@@ -72,8 +73,8 @@ We will provide an overview of Azure AD, and discuss different patterns for inte
 
 [View PowerPoint](Presentation/07-HOL-AuthN%20and%20AuthZ%20patterns.pptx?raw=true)
 
-### View instructions for:
-* [.NET](HOL/dotnet/07-authn-and-authz-patterns)
+### View challenge:
+* [HOL/07-authn-and-authz-patterns]()
 
 ---
 
@@ -87,6 +88,8 @@ We will provide an overview of Azure AD, and discuss different patterns for inte
 
 [View PowerPoint](Presentation/09-HOL-Rostering%20API.pptx?raw=true)
 
+### View challenge ###
+* [HOL/09-graph-rostering-rest-apis]()
 ---
 
 ## Module 10-OneDrive for EDU ##
